@@ -1,3 +1,6 @@
+# Png so as to not include any paper wallets
+*.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
